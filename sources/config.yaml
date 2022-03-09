@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Story Script
 axisOrder:
   - wght
   - ital
-familyName: Rubik
+familyName: Story Script
