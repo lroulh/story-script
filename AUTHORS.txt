@@ -3,5 +3,5 @@
 # See the latter for an explanation.
 #
 # Names should be added to this file as:
-# Name or Organization <email address>
-
+# Lana Roulhac, FullStory <lana@fullstory.com>
+# Ben Buysee, Art Director <hi@benbuysee.com>
