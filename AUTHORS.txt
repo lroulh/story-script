@@ -4,4 +4,4 @@
 #
 # Names should be added to this file as:
 # Lana Roulhac, FullStory <lana@fullstory.com>
-# Ben Buysee, Art Director <hi@benbuysee.com>
+# Ben Buysse, Art Director <hi@benbuysse.com>
