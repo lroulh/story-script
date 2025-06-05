@@ -33,9 +33,7 @@ VíVĭVîVȉVïV/idotaccent VìVỉVȋV
 TíTĭTîTȉTïT/idotaccent TìTỉTȋT
 ABCDEFGH
 
-Obračunavanje",
-A,
-THANKYA
+Obračunavanje"
 );
 classes = (
 {
@@ -379,7 +377,7 @@ value = 1025;
 },
 {
 name = winDescent;
-value = 390;
+value = 365;
 },
 {
 name = hheaAscender;
@@ -34634,6 +34632,15 @@ type = descender;
 }
 );
 properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2022 The Story Script Project Authors (https://github.com/lroulh/story-script)";
+}
+);
+},
 {
 key = designers;
 values = (
