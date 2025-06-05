@@ -366,9 +366,6 @@ pos = 438;
 },
 {
 pos = -212;
-},
-{
-pos = 20;
 }
 );
 name = Regular;
@@ -34591,9 +34588,6 @@ type = baseline;
 },
 {
 type = descender;
-},
-{
-type = "italic angle";
 }
 );
 unitsPerEm = 1000;
