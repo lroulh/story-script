@@ -1,6 +1,4 @@
 sources:
   - StoryScript.glyphs
-axisOrder:
-  - wght
-  - ital
 familyName: StoryScript
+cleanUp: true

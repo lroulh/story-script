@@ -1,5 +1,5 @@
 {
-.appVersion = "3091";
+.appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
 "̛
@@ -17,7 +17,7 @@ sương
 chương
 phương hướng
 xương sường
-tưởng tượng
+tưởng/nbspace tượng
 
 dấu sắc
 dấu huyền",
@@ -36,12 +36,6 @@ ABCDEFGH
 Obračunavanje",
 A,
 THANKYA
-);
-axes = (
-{
-name = Italic;
-tag = ital;
-}
 );
 classes = (
 {
@@ -357,9 +351,6 @@ tag = ss02;
 );
 fontMaster = (
 {
-axesValues = (
-20
-);
 id = "2C7DDEC5-850F-4F82-8636-E075FE6DB186";
 metricValues = (
 {
@@ -377,7 +368,6 @@ pos = 438;
 pos = -212;
 },
 {
-over = -16;
 pos = 20;
 }
 );
@@ -29306,9 +29296,6 @@ width = 1449;
 );
 instances = (
 {
-axesValues = (
-20
-);
 instanceInterpolations = {
 "2C7DDEC5-850F-4F82-8636-E075FE6DB186" = 1;
 };
